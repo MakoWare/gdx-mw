@@ -6,3 +6,6 @@ build/
 
 ## OS Specific
 .DS_Store
+
+## IDEA
+gdx-mw.iml
